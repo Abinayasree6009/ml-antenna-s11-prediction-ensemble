@@ -28,6 +28,6 @@ loss instantly — replacing slow CST Studio simulations.
 Built an interactive GUI where users input antenna dimensions 
 and get instant S11 prediction — no simulation needed!
 
-## 👩‍💻 Author
+## Author
 R.J. Abinaya Sree — M.E. Communication Systems,
 Government college of engineering, Tirunelveli
