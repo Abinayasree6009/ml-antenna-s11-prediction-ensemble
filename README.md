@@ -7,7 +7,7 @@ loss instantly — replacing slow CST Studio simulations.
 ## Results
 | Model | R² Score | MAE |
 |-------|----------|-----|
-| **XGBoost** | **0.9887 accuracy** | **0.083 dB** | **THE BEST**
+| **XGBoost** | **0.9887** | **0.083 dB** | **THE BEST**
 | CatBoost | 0.9867 | 0.135 dB |
 | Extra Trees | 0.9825 | 0.110 dB |
 | LightGBM | 0.9807 | 0.156 dB |
