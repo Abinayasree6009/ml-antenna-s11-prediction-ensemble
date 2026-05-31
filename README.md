@@ -16,9 +16,11 @@ loss instantly — replacing slow CST Studio simulations.
 ⚡ Speed: 900,000× faster than CST software's traditional simulation!
 
 ## Dataset
-- Total records: 11,011 antenna configurations
-- Input: Patch length, Patch width, Frequency (1–3 GHz)
+- Source: Kaggle (publicly available dataset)
+- Records: 11,011 antenna configurations  
+- Input: Patch length, Patch width, Frequency
 - Output: S11 return loss (dB)
+- Link: https://www.kaggle.com/code/mshabrawy/rectangular-patch-antenna/input
 
 ## Tools Used
 - Python, Scikit-learn, XGBoost, LightGBM, CatBoost
